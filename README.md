@@ -1,5 +1,7 @@
 # Rainbow Six: Siege Hacks / Mods
 
+**Note:** These scripts have only been tested for the steam version of the game. I don't have the Uplay version, nor do I have interest in buying a second copy of the game to test these / adapt these to Uplay version.
+
 Requirements: 
 CheatEngine (Latest) - Available @ www.cheatengine.org
 Stealth Edit - Available @ http://guidedhacking.com/attachment.php?attachmentid=3697&d=1476658637 (Requires Login)
