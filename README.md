@@ -24,4 +24,4 @@ You must have BattleEye disabled / not running to use these cheats (atleast with
   
   * 1 Hit Terrorists: *Coming Soon*
   * God Mode: *Coming Soon*
-  * Infinite Gadgets / Equipment (If host, works for all players): *Coming Soon*
+  * Infinite Gadgets / Equipment (If host, works for all players): Uploaded & Working 11/22/2016
