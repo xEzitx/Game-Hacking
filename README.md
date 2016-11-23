@@ -25,3 +25,5 @@ You must have BattleEye disabled / not running to use these cheats (atleast with
   * 1 Hit Terrorists: Uploaded & Working 11/22/2016 (Packaged in w/ God Mode) will make a separate script later.
   * God Mode: Uploaded & Working 11/22/2016
   * Infinite Gadgets / Equipment (If host, works for all players): Uploaded & Working 11/22/2016
+  * Score Multiplier: Uploaded & Working 11/22/2016
+  
