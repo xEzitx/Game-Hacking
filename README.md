@@ -1,5 +1,8 @@
 # Rainbow Six: Siege Hacks / Mods
 
+## Important:
+**For People having issues with alloc() in the original scripts** Please try the version_2 of the scripts. It should solve the issue for you.
+
 **Note:** These scripts have only been tested for the steam version of the game. I don't have the Uplay version, nor do I have interest in buying a second copy of the game to test these / adapt these to Uplay version.
 
 Requirements: 
