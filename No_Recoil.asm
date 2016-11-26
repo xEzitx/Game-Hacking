@@ -12,8 +12,8 @@
 
 [ENABLE]
 
-aobscanmodule(INJECT_No_Recoil,RainbowSix.RDcGroupCondition::IsActive+4CB83,F3 0F 10 4B 70 44)
-alloc(newmem_no_recoil,2048,RainbowSix.RDcGroupCondition::IsActive+4CB83)
+aobscanmodule(INJECT_No_Recoil,RainbowSixGame.exe+755239,F3 0F 10 4B 70 44)
+alloc(newmem_no_recoil,2048,RainbowSixGame.exe+755239)
 stealtheditex(stealth,INJECT_No_Recoil,1)
 
 label(originalcode_No_Recoil)
