@@ -14,8 +14,8 @@ regular terrorists 1 hit kill and bombers take 99 more damage per bullet.
 
 [ENABLE]
 
-aobscanmodule(INJECT_GOD_MODE,RainbowSix.RBcCollisionObject::SetFilterId+16F4,89 91 08 01 00 00 33 D2)
-alloc(newmem_GodMode,2048,RainbowSix.RBcCollisionObject::SetFilterId+16F4)
+aobscanmodule(INJECT_GOD_MODE,RainbowSixGame.exe+755239,89 91 08 01 00 00 33 D2)
+alloc(newmem_GodMode,2048,RainbowSixGame.exe+755239)
 stealtheditex(stealth,INJECT_GOD_MODE,1)
 
 label(originalcode_godMode)
