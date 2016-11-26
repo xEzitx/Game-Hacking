@@ -1,3 +1,7 @@
+All credit goes to the original owner @ https://github.com/BC93/Game-Hacking
+
+All I am doing is make them useable on Uplay, Regards.
+
 # Rainbow Six: Siege Hacks / Mods
 
 ## Important:
