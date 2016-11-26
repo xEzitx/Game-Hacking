@@ -12,8 +12,8 @@ works for all players in lobby if host.
 
 [ENABLE]
 
-aobscanmodule(INJECT_Score_Multiplier,RainbowSix.RDcNamedObject::SetId+D0E79,01 91 B8 00 00 00 48)
-alloc(Score_Multiplier,2048,RainbowSix.RDcNamedObject::SetId+D0E79)
+aobscanmodule(INJECT_Score_Multiplier,RainbowSixGame.exe+755239,01 91 B8 00 00 00 48)
+alloc(Score_Multiplier,2048,RainbowSix.RainbowSixGame.exe+755239)
 stealtheditex(stealth,INJECT_Score_Multiplier,1)
 
 label(originalcode_scoreMultiplier)
