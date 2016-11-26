@@ -19,8 +19,8 @@ going to bother.
 
 [ENABLE]
 
-aobscanmodule(INJECT_Gadgets,RainbowSix.RBcFragmentedObject::GetCollisionMaterialOverride+41461,89 91 08 02 00 00 8B)
-alloc(Infinite_Gadgets,2048,RainbowSix.RBcFragmentedObject::GetCollisionMaterialOverride+41461)
+aobscanmodule(INJECT_Gadgets,RainbowSixGame.exe+755239,89 91 08 02 00 00 8B)
+alloc(Infinite_Gadgets,2048,RainbowSixGame.exe+755239)
 stealtheditex(stealth,INJECT_Gadgets,1)
 
 label(originalcode_Gadgets)
